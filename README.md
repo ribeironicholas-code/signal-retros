@@ -1,3 +1,5 @@
+<img src="https://img.shields.io/badge/signal-retros-6C2FFB?style=flat-square" />
+
 # Signal Retros
 
 Non-confidential reflections, heuristics, and patterns from building **Signal** — Bain’s internal collaboration & M&A planning platform powering enterprise-scale post-merger execution.
